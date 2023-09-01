@@ -1,6 +1,6 @@
 const BLOG = {
-  title: 'abishek',
-  author: 'abishek venkat',
+  title: 'abishek\'s blog',
+  author: 'Abishek Venkat',
   email: 'abishekvenkat@duck.com',
   link: 'https://nobelium.vercel.app',
   description: 'i\'ll make you double-think your visit here, soon',
