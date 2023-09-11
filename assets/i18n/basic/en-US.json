@@ -1,21 +1,21 @@
 {
   "NAV": {
     "INDEX": "blog",
-    "RSS": "RSS",
+    "RSS": "rss",
     "SEARCH": "search",
     "ABOUT": "about"
   },
   "PAGINATION": {
-    "PREV": "Prev",
-    "NEXT": "Next"
+    "PREV": "prev",
+    "NEXT": "next"
   },
   "POST": {
-    "BACK": "Back",
-    "TOP": "Top"
+    "BACK": "back",
+    "TOP": "top"
   },
   "PAGE": {
     "ERROR_404": {
-      "MESSAGE": "Nothing here"
+      "MESSAGE": "nothing here :("
     }
   }
 }
