@@ -2,7 +2,7 @@ const BLOG = {
   title: 'abishek\'s blog',
   author: 'abishek venkat',
   email: 'abishekvenkat@duck.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://bish.buzz',
   description: 'not AI generated, trust me.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Kolkata', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
